@@ -34,3 +34,9 @@ VPN Wireguard scripted with:
 - Revocation Automatized of the Clients unwisheds in any Interface previously created in the VPN server.
 - Sample of the Clients in any Interface previously created in the VPN server more graphically.
 - Automatized Uninstall of the VPN wireguard server.
+
+## Contact
+CONTACT MAIL: jonas.baeza.7e4@itb.cat
+If you want to use our VPN just send us a email, with your name and the country you would like to be conected to.
+For unsuscribing to our service send us a email telling us you no longer will need our service.
+For any further questions or doubts send us a email.
